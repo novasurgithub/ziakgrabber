@@ -9,7 +9,7 @@ The grabber is not an .exe file so you'll tell him/her to open the poisoned file
 - Click on the access path and type cmd
 - Once it open it, write : python ziakd.py (its the default one you can change the name to fake the file BUT don't put SPACE in the file name)
 
-Don't change the file name of the program cuz he will stop working (ziak grabber-.py not the poisoned file) 
+Don't change the file name of the program cuz he will stop working (ziakgrabber-.py not the poisoned file) 
 
 The code source is obfuscated but there is no backdoor,
 Virustotal : https://www.virustotal.com/gui/file/86d0688bb6f8a3302ef407b16f2b7f627179f048ab2ece3f3f508b7a8aaa9eeb?nocache=1
